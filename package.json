@@ -1,0 +1,21 @@
+{
+  "name": "node-runing",
+  "version": "1.0.0",
+  "description": "node部署demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riliang1993/node-runing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riliang1993/node-runing/issues"
+  },
+  "homepage": "https://github.com/Riliang1993/node-runing#readme"
+}
